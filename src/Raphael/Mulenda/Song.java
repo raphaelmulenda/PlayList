@@ -1,5 +1,9 @@
 package Raphael.Mulenda;
 
+/**
+ * Created by Raphael Mulenda on 19/Feb/2022.
+ */
+
 public class Song {
     private String title;
     private double duration;
